@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity Training</string>
+    <string name="main_button">Main Button</string>
+    <string name="back_button">Back</string>
+    <string name="add_sugar_button">Add Sugar</string>
+    <string name="add_pepper_button">Add pepper</string>
+</resources>

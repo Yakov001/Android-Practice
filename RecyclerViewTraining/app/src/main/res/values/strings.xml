@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecyclerViewTraining</string>
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>RUB</item>
+        <item>GRN</item>
+        <item>GBP</item>
+        <item>BRR</item>
+        <item>TNG</item>
+        <item>PES</item>
+        <item>TGR</item>
+        <item>BTC</item>
+        <item>ETM</item>
+        <item>GLD</item>
+        <item>PNZ</item>
+        <item>AUD</item>
+        <item>NZD</item>
+    </string-array>
+</resources>

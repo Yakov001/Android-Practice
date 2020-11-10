@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         if (timePassed != 0){
             startChronometer(chronometer.getRootView());
         }
+
     }
 
     public void startChronometer(View view) {
@@ -69,6 +70,6 @@ public class MainActivity extends AppCompatActivity {
         timePassed = savedInstanceState.getInt(KEY, 5000);
 
         // The next method NEVER WORKS. Need to be fixed.
-        startChronometer(chronometer.getRootView());
+        //startChronometer(chronometer.getRootView());
     }
 }
