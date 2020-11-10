@@ -1,0 +1,4 @@
+#Thu Oct 01 12:45:14 MSK 2020
+base.0=C\:\\Users\\Yakov\\Downloads\\ktPvD1KbQ-eT7w9SmwPnIw_3a493744a069489a90fcf701d2f79dd7_m3-assignment-shapes-skeleton\\ActivityTraining\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
